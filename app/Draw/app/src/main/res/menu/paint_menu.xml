@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/free_draw"
+        app:showAsAction="always"
+        android:title="Draw"
+        android:icon="@drawable/free_draw"/>
+
+    <item
+        android:id="@+id/eraser"
+        app:showAsAction="always"
+        android:title="Clear"
+        android:icon="@drawable/eraser"/>
+</menu>

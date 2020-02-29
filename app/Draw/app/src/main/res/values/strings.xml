@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Drawino </string>
+    <string name="Ok">Ok </string>
+    <string name="Cancel">Cancel </string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_email">Not a valid email</string>
+    <string name="invalid_password">Password must be >0 characters</string>
+    <string name="login_failed">"Login failed, incorrect password"</string>
+    <string name="picture">Picture</string>
+    <string name="painter">Painter</string>
+    <string name="connection_error">Connection error</string>
+    <string name="success">Success</string>
+    <string name="fail">Fail</string>
+</resources>
