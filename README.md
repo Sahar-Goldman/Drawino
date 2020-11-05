@@ -7,4 +7,4 @@ in real time or load an existing picture to the app and it will be printed as we
 The project uses Arduino, Azure cloud functions and Bluetooth communication.
 
 Watch project's amazing video: https://www.youtube.com/watch?v=Kn2RDw3p3Ts
-<img src="https://github.com/Sahar-Gold/Drawino/blob/master/Drawino.jpg">
+<img src="https://github.com/Sahar-Goldman/Drawino/blob/master/Drawino.jpg">
